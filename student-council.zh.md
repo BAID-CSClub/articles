@@ -1,8 +1,8 @@
 ---
-date: 2021-9-15
+date: 2021-09-15
 time: 00:00:00+08:00
 description: 第二届学委会成立
-title: 北中国际部第二届学委会成立了！
+title: BAID北中国际部第二届学委会成立了！
 cover: default.png
 ---
 
