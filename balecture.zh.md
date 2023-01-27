@@ -3,7 +3,7 @@ date: 2021-09-30
 time: 09:00:00+08:00
 description: BA大讲堂
 title: BAID故事｜BA大讲堂——从记笔记到有效思维
-cover: default.png
+cover: ./balecture/overall.webp
 ---
 
 ## 刘柔希：

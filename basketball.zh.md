@@ -3,7 +3,7 @@ date: 2021-12-17
 time: 18:00:00+08:00
 description: 北中篮球联赛
 title: BAIDer | 扬体育精神，展青春风采
-cover: default.png
+cover: ./basketball/6.webp
 ---
 
 **张文韬**

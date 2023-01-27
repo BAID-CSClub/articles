@@ -3,7 +3,7 @@ date: 2021-10-07
 time: 09:00:00+08:00
 description: 2021年中秋诗会
 title: BAID故事｜诗歌传中秋
-cover: default.png
+cover: ./mid-autumn/overall_2.webp
 ---
 
 9月15日，国际部全体同学聚集在一起，举办了一年一度的中秋诗会。这是一场视听盛会，节目精彩，气氛活跃。

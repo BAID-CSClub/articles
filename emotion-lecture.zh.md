@@ -1,10 +1,9 @@
-
 ---
 date: 2021-11-16
 time: 19:00:00+08:00
 description: 情绪与压力管理
 title: BAIDer | 做情绪的朋友
-cover: default.png
+cover: ./emotion-lecture/0.webp
 ---
 
 张静教授与李湾老师、路智鹏老师带着丰富有趣的情绪管理课堂来到了北京中学，给国际部的学生讲述如何平衡压力和情绪。

@@ -3,7 +3,7 @@ date: 2021-10-06
 time: 09:00:00+08:00
 description: 2021IEOC国际经济学奥赛
 title: BAID故事｜北中学子在2021IEOC国际经济学奥林匹克竞赛中取得优异成绩
-cover: default.png
+cover: ./competition/overall.webp
 ---
 
 ## 从初遇到绽放

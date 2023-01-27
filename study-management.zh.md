@@ -3,7 +3,7 @@ date: 2021-10-19
 time: 18:00:00+08:00
 description: 项目管理
 title: BAIDer｜提升项目管理能力，提高学习与工作效率
-cover: default.png
+cover: ./study-management/overall.webp
 ---
 
 10月12 日，北中国际部请来了"项目资深管理专家"张会斌先生为全体学生开展了一场融学术性、实战性与趣味性于一体的讲座，对同学们提升学习效率和生活质量起到非常积极影响。

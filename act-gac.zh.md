@@ -1,11 +1,11 @@
-
 ---
 date: 2021-11-07
 time: 18:00:00+08:00
 description: ACT考试中心成立
 title: ACT-GAC 官方教学及考试中心正式成立！
-cover: default.png
+cover: ./act-gac/0.webp
 ---
+
 热烈祝贺北京中学授权为全球ACT-GAC官方教学及考试中心！学生可在北京中学学习与之配套的GAC课程，在本校直接参加美国高考（ACT)，考试成绩全球认可。
 
 GAC全称为Global Assessment Certificate，即全球评估认证，是由美国大学入学考试委员会权威开设的、唯一涵盖美国高考ACT的国际预科课程。
