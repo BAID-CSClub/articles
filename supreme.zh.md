@@ -3,7 +3,7 @@ date: 2022-01-07
 time: 09:39:00+08:00
 description: BA大讲堂
 title: BAIDer | 提升品质，追求卓越
-cover: default.png
+cover: ./supreme/0.webp
 ---
 
 ## **刘柔希**

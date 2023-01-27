@@ -3,7 +3,7 @@ date: 2022-01-20
 time: 18:00:00+08:00
 description: 英文戏剧节
 title: BAIDer｜精彩英文戏剧节，展校园多彩魅力
-cover: default.png
+cover: ./drama/0.webp
 ---
 
 ## **段睿涵：**

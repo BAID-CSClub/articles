@@ -3,7 +3,7 @@ date: 2021-11-30
 time: 09:00:00+08:00
 description: BA大讲堂
 title: BAID｜走出国门 更需要多元文化视野
-cover: default.png
+cover: ./international-perspective/1.webp
 ---
 
 ## **李天水：**
